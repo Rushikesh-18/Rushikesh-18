@@ -1,4 +1,5 @@
 <h1 align="center">Hi , I'm Rushikesh Pachpute <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<br>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=35&center=true&vCenter=true&width=600&height=30&lines=Software+Engineer;Computer+Science+Student;DSA+Enthusiast;Always+learning+new+things"></a>
 </p>
@@ -167,7 +168,7 @@
 
 
 	
-## 🐍 A Snake Eating my Contributions Graph
+## 🐍 Why I'm Eating my Contributions Graph
 	
 <!-- <p align = "center">
 	<img src = "https://github.com/Rushikesh-18/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
